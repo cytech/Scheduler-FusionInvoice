@@ -1,0 +1,5 @@
+assets/* linguist-vendored
+Resources/* linguist-vendored
+custom/addons/Scheduler/Assets/* linguist-vendored
+custom/addons/Scheduler/vendor/* linguist-vendored
+
