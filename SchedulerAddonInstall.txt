@@ -42,3 +42,4 @@ This should take you to the FusionInvoice addon page where you can "Complete Upg
 
 That should do it !
 Description of functions is available in Scheduler -> Utilities -> About
+
